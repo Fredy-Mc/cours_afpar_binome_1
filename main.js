@@ -1,7 +1,7 @@
 // selectionner la navigation
 const students = [
-    {num: "08", name: "Fredy MCHINDRA"},
-    {num: "02", name: "Terence DEVEQUI"},
+    {num: "03", name: "Ugo FOK-YIN"},
+    {num: "13", name: "Alexandre ROBERT"},
 ]
 
 const nav = document.querySelector('#navigation ul'); // Je récupère un ul dans un élément ayant pour id navigation
